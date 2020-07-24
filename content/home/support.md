@@ -3,10 +3,10 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Skills"
-subtitle = ""
+title = "Support"
+subtitle = "What you can do to help"
 
 # Showcase personal skills or business features.
 # 
@@ -15,23 +15,23 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
+  icon = "bullhorn"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Report"
+  description = "Tell us about an instance of peer-reviewed racism."  
 
+[[feature]]
+  icon = "retweet"
+  icon_pack = "fa"
+  name = "Amplify"
+  description = "Share our mission and progress on social media."
+  
+[[feature]]
+  icon = "user-plus"
+  icon_pack = "fas"
+  name = "Join"
+  description = "Help fight peer-reviewed racism and grow your anti-racism skills."
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

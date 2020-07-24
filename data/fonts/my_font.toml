@@ -1,0 +1,10 @@
+# Font style metadata
+name = "my_font"
+
+# Optional Google font URL
+google_fonts = "Alegreya+Sans+SC:400,700|Lato:400,400italic,700"
+
+# Font families
+heading_font = "Alegreya Sans SC"
+body_font = "Lato"
+nav_font = "Lato"
